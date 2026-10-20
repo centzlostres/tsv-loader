@@ -8,7 +8,7 @@
     { "name": "Test Author Three", "url": "https://example.org" }
   ],
   "description": "Data loader for tab-separated (TSV) tabular files.",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "min_app_version": "0.9.0",
   "project_urls": {
     "Homepage": "https://github.com/centzlostres/tsv-loader-test",
